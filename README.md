@@ -1,5 +1,5 @@
 # Instagram-Clone-App
-*Instagram Clone App*<br/>
+<br/>
 *Instagram Clone App de kullanıcı genel olarak üyelik oluşturabilir, giriş yapabilir, profilini düzenleyebilir(profil fotoğrafını, kullanıcı adını, gerçek adını, biyografisini), post atabilir(galerisinden bir fotoğraf seçerek ve yorum yazarak), story atabilir(galerisinden fotoğraf seçerek) ve hesap işlemlerini(şifre değiştir, e-mail değiştir, hesabı sil, çıkış yap) yapabilir.*<br/>
 <br/>
 **Kullanılan Teknolojiler & Yapılar**<br/>
