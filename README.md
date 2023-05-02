@@ -12,7 +12,8 @@ Instagram Clone App
 •*Dagger- Hilt*<br/>
 •*Glide*<br/>
 •*Navigation*<br/>
-•*LiveData*
+•*LiveData*<br/>
+<br/>
 ![Screenshot_20230502_194306](https://user-images.githubusercontent.com/112124373/235740373-b564d022-7348-4c72-be55-749039934486.png)
 ![Screenshot_20230502_194345](https://user-images.githubusercontent.com/112124373/235740381-a885f6dc-db88-4018-b4a7-05d27bba95a4.png)
 ![Screenshot_20230502_194355](https://user-images.githubusercontent.com/112124373/235740393-33f97225-70de-4c1c-b461-f0dd03e874b1.png)<br/>
