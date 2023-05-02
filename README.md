@@ -5,7 +5,7 @@ Instagram Clone App
 **Kullanılan Teknolojiler & Yapılar**<br/>
 *Jetpack Compose*<br/>
 *MVVM Mimarisi*<br/>
-*Retrofit*
+*Retrofit*<br/>
 *Coroutine*<br/>
 *Dagger- Hilt*<br/>
 *Glide*<br/>
